@@ -11,6 +11,6 @@ Data sets:
 - top_10_zipcodes.csv: combined dataframe for top ten zipcodes, prepared by the team
 
 Jupyter notebooks:
-market_analysis.ipynb: ARIMA time series modeling for the US housing market as a whole
-top_ten_zipcodes_historical.ipynb: EDA and data extraction identifying the top ten historical performers
-arima_models.ipynb: ARIMA time series models for each of the top ten historic zipcodes
+- market_analysis.ipynb: ARIMA time series modeling for the US housing market as a whole
+- top_ten_zipcodes_historical.ipynb: EDA and data extraction identifying the top ten historical performers
+- arima_models.ipynb: ARIMA time series models for each of the top ten historic zipcodes
